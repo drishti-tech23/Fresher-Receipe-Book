@@ -335,7 +335,7 @@ function App() {
 const styles = {
   appContainer: { 
     fontFamily: '"Comic Sans MS", "Arial Rounded MT Bold", sans-serif', 
-    backgroundColor: '#FFF2F0', 
+    backgroundColor: '#F0FDF4', 
     minHeight: '100vh', 
     padding: '20px', 
     color: '#4A2E2B' 
