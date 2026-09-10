@@ -74,7 +74,7 @@ Follow these steps to run the project on your computer.
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com
 ```
 
 ### 2. Open the Project Folder
