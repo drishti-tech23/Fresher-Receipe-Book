@@ -142,16 +142,15 @@ Screenshots of the working application are included below.
 
 > Add your actual screenshots to a `screenshots` folder in the repository and update the filenames below.
 
-### Home Page
+## 📸 Screenshots
 
+### Home Page
 ![Recipe Book Home Page](screenshots/home.png)
 
 ### Recipe List
-
 ![Recipe List](screenshots/recipes.png)
 
 ### Recipe Details
-
 ![Recipe Details](screenshots/recipe-details.png)
 
 ---
@@ -161,7 +160,7 @@ Screenshots of the working application are included below.
 The demo video showcases the main features and working of the Recipe Book application.
 
 **Demo Video:**
-[Watch the Recipe Book Demo](YOUR_DEMO_VIDEO_LINK)
+[Watch the Recipe Book Demo](https://drive.google.com/file/d/1vz8drBjz7ZAINnJNtmU7ihNe_l2JusLD/view?usp=drive_link)
 
 ---
 
